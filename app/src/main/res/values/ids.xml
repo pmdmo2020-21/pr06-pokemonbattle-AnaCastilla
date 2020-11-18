@@ -8,7 +8,6 @@
     <item name="llBottom" type="id" />
     <item name="imgPokemonBattleBottom" type="id" />
     <item name="guideline" type="id" />
-    <item name="txtBattleSecondPokemonName" type="id" />
     <item name="guideline2" type="id" />
     <item name="txtInstructions" type="id" />
     <item name="imgSelectFirstPokemon" type="id" />
@@ -29,4 +28,5 @@
     <item name="txtWinnerTop" type="id" />
     <item name="imgWinnerPokemon" type="id" />
     <item name="txtWinnerBottom" type="id" />
+    <item name="txtBottomPokemonName" type="id" />
 </resources>
